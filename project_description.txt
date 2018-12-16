@@ -1,1 +1,1 @@
-This will a repository for a stock prediction project. 
+This will a repository for a stock prediction project. There will be an end-to-to ML pipeline.
