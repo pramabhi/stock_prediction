@@ -1,2 +1,2 @@
 # stock_prediction
-Stock prediction project using neural networks
+Stock prediction project using lstm neural networks
