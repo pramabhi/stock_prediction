@@ -1,2 +1,2 @@
 # stock_prediction
-Stock prediction project using deep learning
+Stock prediction project using neural networks
