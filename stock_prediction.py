@@ -1,14 +1,7 @@
 
-# coding: utf-8
 
-# # Project: Stock Market Analysis and Prediction
 # 
 # ## Stock Market Data From Google Finance
-# 
-# ### Introduction
-# 
-#    Stock Market Analysis and Prediction is the project on technical analysis, visualization and prediction using data provided by Google Finance. By looking at data from the stock market, particularly some giant technology stocks and others. Used pandas to get stock information, visualize different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. Predicted future stock prices through a Monte Carlo method!
-#    
 # ### Questions
 # 
 # In this analysis, I would like to explore the following questions.
@@ -50,9 +43,6 @@ from __future__ import division
 
 
 # #### Section 1 - Basic Analysis of Stock Information
-# 
-# 
-# In this section I'll go over how to handle requesting stock information with pandas, and how to analyze basic attributes of a stock.
 # 
 
 # In[3]:
