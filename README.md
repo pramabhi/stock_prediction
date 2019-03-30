@@ -1,2 +1,4 @@
-# stock_prediction
-Stock market analysis project
+# stock market analysis of few tech companies. 
+# Project includes time series forecasting, monte-carlo simulation etc.
+
+
