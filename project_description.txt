@@ -1,1 +1,1 @@
-This will a repository for a stock prediction project. There will be an end-to-to ML pipeline.
+This is a repository for a stock market analysis project for a Udemy course, Python for Data Analysis and Visualization. 
